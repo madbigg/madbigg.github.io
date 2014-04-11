@@ -121,14 +121,14 @@ body {
 
 .header-container {
     position:absolute;
-    bottom:20px;
-    width: 100%;
+    bottom:10px;
+    width:100%;
     background: blue;
     z-index: 10;
     /* Fallback for web browsers that doesn't support RGBa */
     background: rgb(0, 0, 0);
     /* RGBa with 0.9 opacity */
-    background: rgba(0, 0, 0, 0.8);
+    background: rgba(0, 0, 0, 0.6);
     /* For IE 5.5 - 7*/
     filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#CC000000, endColorstr=#CC000000);
     /* For IE 8*/
@@ -136,12 +136,12 @@ body {
 }
 
 .title {
-    color: black;
+    color: white;
 }
 #introtext {
     display: block;
-    padding: 10px 0 10px 0;
-    margin-bottom: 300px;
+    padding: 0px 100px 0px 0;
+    margin: 0px 600px 100px 10px;
     background: black;
 
     -ms-border-radius: 8px;
@@ -153,7 +153,7 @@ body {
     /* Fallback for web browsers that doesn't support RGBa */
     background: rgb(0, 0, 0);
     /* RGBa with 0.7 opacity */
-    background: rgba(0, 0, 0, 0.4);
+    background: rgba(0, 0, 0, 0);
     /* For IE 5.5 - 7*/
     filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#B2000000, endColorstr=#B2000000);
     /* For IE 8*/
@@ -453,7 +453,7 @@ section h2 {
     .oldie nav a {
         margin: 0 0.7%;
     }
-}
+
 
 @media only screen and (min-width: 768px) {
 
@@ -503,7 +503,7 @@ section h2 {
         padding: 15px 2%;
         font-size: 90%;
     }
-}
+
 @media only screen and (min-width: 900px) {
 
     section h1,
@@ -529,7 +529,7 @@ section h2 {
         padding: 0 20px;
     }  
 
-}
+
 
 
 @media only screen and (min-width: 1140px) {
@@ -573,7 +573,7 @@ section h2 {
     }
 
   
-}
+
 
 /* ==========================================================================
    Helper classes
