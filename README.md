@@ -3,24 +3,12 @@
 这是我和刀刀结婚的邀请卡页面。
 这个页面是根据开源的responsive-wedding 页面更改的。很感谢原作者的源码。
 
-responsive-wedding
-------------------
-
-An HTML5 responsive design using jquery waypoints & scroll-to for a pleasant single-page navigation. This template makes use of media queries and scales well for all mobile form-factors.
-
-A live demo can be viewed at:
-
-   http://sarahlovesbradley.com
-
-========
-
-![Preview](https://github.com/bmgdev/responsive-wedding/blob/master/preview.png?raw=true)
 
 ## LICENSE
 
 (The MIT License)
 
-Copyright © Scal.io, LLC [Bradley Greenwood](http://github.com/bmgdev/)
+Copyright © [Madbigg](http://github.com/madbigg/)
 
 Permission is hereby granted, free of charge, to any person obtaining a
 copy of this software and associated documentation files (the "Software"),
